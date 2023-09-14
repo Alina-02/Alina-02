@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi :)
 
 <!--
 **Alina-02/Alina-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Computer Science student trying to learn by my own how to create web apps to improve my programming skills with front-end and back-end.
