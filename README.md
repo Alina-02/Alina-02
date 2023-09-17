@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Computer Science student trying to learn by my own how to create web apps to improve my programming skills with front-end and back-end.
+I'm Computer Science student trying to learn by my own how to create web apps to improve my programming skills with different front-end and back-end technologies.
