@@ -20,6 +20,6 @@ I'm Computer Science student trying to learn by my own how to create web apps to
 ## 📊 Stats because who doesn't like stats 
 
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Alina-02&show_icons=true&theme=tokyonight) ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-02&layout=compact&theme=tokyonight)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Alina-02&show_icons=true&theme=tokyonight)          ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-02&layout=compact&theme=tokyonight)
 
 
