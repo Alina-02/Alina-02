@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Computer Science student trying to learn by my own how to create web apps to improve my programming skills with different front-end and back-end technologies.
 
-## 📊 Stats because who doesn't like stats 
+## Stats because who doesn't like stats 
 
 
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Alina-02&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;  ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-02&layout=compact&theme=tokyonight)
