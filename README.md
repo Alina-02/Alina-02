@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Computer Science student learning by my own how to create web apps to improve my programming skills with different front-end and back-end technologies.
+I'm Computer Science graduate learning by my own how to create web apps to improve my programming skills with different front-end and back-end technologies.
 
 ## Stats because who doesn't like stats 
 
