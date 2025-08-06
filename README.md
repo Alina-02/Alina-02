@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Computer Science graduate learning by my own how to create web apps to improve my programming skills with different front-end and back-end technologies.
+I'm a front-end developer specializing in the React framework. I'm looking to expand my knowledge to the back-end and, most importantly, grow as a UX/UI designer to be able to develop full-stack applications. My current stack is based on Next.js, TypeScript, and TailwindCSS, but I'm looking to expand into Java and SpringBoot once I've solidified my current knowledge.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,flutter,java,nodejs,nextjs,figma,t&theme=light)](https://skillicons.dev)
 
 ## Stats because who doesn't like stats 
-
 
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Alina-02&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;  ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-02&layout=compact&theme=tokyonight)
 
