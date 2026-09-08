@@ -19,8 +19,8 @@ I'm a front-end developer specializing in the React framework. I'm looking to ex
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,flutter,java,nodejs,nextjs,figma,t&theme=light)](https://skillicons.dev)
 
-## Stats because who doesn't like stats 
+<!--## Stats because who doesn't like stats 
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Alina-02&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;  ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-02&layout=compact&theme=tokyonight)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Alina-02&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;  ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-02&layout=compact&theme=tokyonight)-->
 
 
