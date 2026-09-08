@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a front-end developer specializing in the React framework. I'm looking to expand my knowledge to the back-end and, most importantly, grow as a UX/UI designer to be able to develop full-stack applications. My current stack is based on Next.js, TypeScript, and TailwindCSS, but I'm looking to expand into Java and SpringBoot once I've solidified my current knowledge.
+Front-end developer specializing in React and Angular, currently building with Next.js, TypeScript, and TailwindCSS. Also experienced in web scraping with Python. Expanding into back-end development with Java and Spring Boot, with the goal of becoming a well-rounded full-stack developer with strong UX/UI design skills.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,flutter,java,nodejs,nextjs,figma,t&theme=light)](https://skillicons.dev)
 
